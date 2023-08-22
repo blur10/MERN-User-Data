@@ -1,0 +1,14 @@
+.getUserById form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+form input {
+  padding: 8px 50px;
+  margin: 10px;
+  border-radius: 8px;
+  border: none;
+  font-size: 17px;
+  text-align: center;
+}

@@ -1,0 +1,18 @@
+.navbar {
+  padding: 20px;
+  border-bottom: 2px solid white;
+  align-items: center;
+}
+
+.navbar a {
+  padding: 23px;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  /* border-radius: 20px; */
+  transition: 0.2s;
+}
+.navbar a:hover {
+  background-color: white;
+  color: black;
+}
