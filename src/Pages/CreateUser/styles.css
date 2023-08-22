@@ -12,3 +12,7 @@ form input {
   font-size: 17px;
   text-align: center;
 }
+.submitted {
+  margin-top: 5px;
+  color: lightgreen;
+}
