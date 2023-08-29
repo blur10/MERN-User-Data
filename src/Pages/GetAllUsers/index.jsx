@@ -38,7 +38,6 @@ const GetAllUsers = () => {
             <td>{user.email}</td>
           </tr>
         ))}
-        s{" "}
       </table>
     </div>
   );

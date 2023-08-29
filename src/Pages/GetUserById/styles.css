@@ -1,14 +1,24 @@
-.getUserById form {
+.getUserById {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
-form input {
-  padding: 8px 50px;
+.getUserById .form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.form input {
+  padding: 8px 45px;
   margin: 10px;
   border-radius: 8px;
   border: none;
-  font-size: 17px;
+  font-size: 18px;
   text-align: center;
+}
+
+.successfulSeacrh {
+  font-size: 18px;
 }
